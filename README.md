@@ -21,7 +21,7 @@ Bubblewicks' main database structure as seen below consists of one table: EtsySo
 
 - **Table 2:**
 
-[Entity Relationship Diagram here]
+![ERD](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-erd.png)
 
 
 
