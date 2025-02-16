@@ -74,7 +74,7 @@ Below is the overview page from the Excel dashboard. The entire interactive dash
 
 - In Canada, Ontario and British Columbia saw significantly higher orders than in other provinces/territories with 22 and 11 orders respectively. The United States was much more varied with no state having more than 3 orders.
 
-[Visualization specific to category 3]
+![Sales By Region](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-geo.png)
 
 
 
