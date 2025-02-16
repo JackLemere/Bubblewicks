@@ -12,9 +12,7 @@ Insights and recommendations are provided on the following key areas:
 - Product Level Performance: An analysis of Bubblewicks' various products, understanding their impact on total sales and revenue
 - Regional Comparisons: An evaluation of product sales by province/state
 
-A cleaned and redacted version of the data for this analysis can be found here [link].
-
-An interactive Excel dashboard used to report and explore sales trends can be found here [link].
+![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
 
 
 # Data Structure & Initial Checks
