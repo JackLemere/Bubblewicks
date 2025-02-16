@@ -19,8 +19,6 @@ Insights and recommendations are provided on the following key areas:
 
 Bubblewicks' main database structure as seen below consists of one table: EtsySoldOrderItems2020 with a total row count of 74 records. A description of this table is as follows:
 
-- **Table 2:**
-
 ![ERD](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-erd.png)
 
 
