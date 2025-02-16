@@ -45,6 +45,9 @@ Below is the overview page from the Excel dashboard.
 - Orders rarely saw more than one item per order, with 92.9% of orders containing just one item.
 
 
+![Items Sold](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-items-sold.png)
+
+
 ### Product Performance:
 
 - Candle Kits were by far the most popular item, accounting for 51.28% of total company sales. A total of 40 Candle Kits were sold generating $1538.00 in revenue. 
@@ -56,6 +59,8 @@ Below is the overview page from the Excel dashboard.
 - Soap Cutters were the third most sold product behind Stephenson Soap base, but generated the second highest revenue with $945.00 earned from 13 sales.
 
 
+![Products Over Time](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-top-selling.png)
+
 
 ### Regional Comparisons:
 
@@ -63,8 +68,8 @@ Below is the overview page from the Excel dashboard.
 
 - In Canada, Ontario and British Columbia saw significantly higher orders than in other provinces/territories with 22 and 11 orders respectively. The United States was much more varied with no state having more than 3 orders.
 
-![Sales By Region](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-geo.png)
-
+![Sales By Region Map](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-geo.png)
+![Sales By Region Table](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-states.png)
 
 
 # Recommendations:
