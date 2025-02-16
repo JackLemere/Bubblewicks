@@ -78,8 +78,6 @@ Based on the insights and findings above, we would recommend Bubblewicks to cons
 
 - With Candle Kits being the most successful product with 51% of sales, this product should be heavily focused on reopen. Stephenson Soap Base and Soap Cutters also saw significant sales, including them in the reopening should be a priority.
 
-- Soap Kits only sold six times but still generated a significant amount of revenue with $234.00. Lowering the price of this product may encourage more sales.
-
 - Re-evaluate Fragrance and Essential Oils. Sales of these products were extremely low in comparison while also providing low revenue. These products should be sold in bulk or included as part of bundle offers.
 
 - Shop inventory only includes six product types sold. For increase in sales, it would be beneficial to carry more products to sell, both for generating more sales and attracting different types of customers.
