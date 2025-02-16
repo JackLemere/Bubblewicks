@@ -66,7 +66,7 @@ Below is the overview page from the Excel dashboard.
 
 - Between Canada and the United States, Canada saw 59.46% of all orders with the remaining 40.54% coming from the United States.
 
-- In Canada, Ontario and British Columbia saw significantly higher orders than in other provinces/territories with 22 and 11 orders respectively. The United States was much more varied with no state having more than 3 orders.
+- In Canada, Ontario and British Columbia saw significantly higher orders than in other provinces/territories with 22 and 11 orders respectively. The United States was much more varied with no state having more than 4 orders.
 
 ![Sales By Region Map](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-geo.png)
 ![Sales By Region Table](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-states.png)
