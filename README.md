@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following key areas:
 
 # Data Structure & Initial Checks
 
-Bubblewicks' main database structure as seen below consists of one table: SoldOrders2020 with a total row count of 74 records. A description of this table is as follows:
+Bubblewicks' main database structure as seen below consists of two tables: SoldOrders2020 and total_items_purchased with a total of of 74 records.
 
 ![ERD](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-erd.png)
 
