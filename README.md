@@ -12,8 +12,6 @@ Insights and recommendations are provided on the following key areas:
 - Product Level Performance: An analysis of Bubblewicks' various products, understanding their impact on total sales and revenue
 - Regional Comparisons: An evaluation of product sales by province/state
 
-![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
-
 
 # Data Structure & Initial Checks
 
@@ -29,9 +27,9 @@ Bubblewicks' main database structure as seen below consists of one table: EtsySo
 
 As for the most successful products, Candle Kits were the highest selling item by a significant margin with 40 total sales, Stephenson Soap Base and Soap Cutters also saw a significant portion of sales with 17 and 13 sold respectively. Fragrance and Essential Oils were the worst performers with a combined 2 sales. The company saw a steady increase in total items sold which peaked in May with 20 items sold that month. The following sections will dive deeper into product sales trends and highlight key areas that were successful and other areas that have opportunity for improvement.
 
-Below is the overview page from the Excel dashboard. The entire interactive dashboard is available to view [here]
+Below is the overview page from the Excel dashboard.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
 
 
 
@@ -47,9 +45,6 @@ Below is the overview page from the Excel dashboard. The entire interactive dash
 - Orders rarely saw more than one item per order, with 92.9% of orders containing just one item.
 
 
-[Visualization specific to category 1]
-
-
 ### Product Performance:
 
 - Candle Kits were by far the most popular item, accounting for 51.28% of total company sales. A total of 40 Candle Kits were sold generating $1538.00 in revenue. 
@@ -59,8 +54,6 @@ Below is the overview page from the Excel dashboard. The entire interactive dash
 - Stephenson Soap Base appeared to be very popular from February to May, and was tied for the most sold product during the month of May making up 40% of sales. No Stephenson Soap Bases were sold after June. 
 
 - Soap Cutters were the third most sold product behind Stephenson Soap base, but generated the second highest revenue with $945.00 earned from 13 sales.
-  
-[Visualization specific to category 2]
 
 
 
