@@ -4,7 +4,7 @@
 
 Bubblewicks is an online business that sells soap and candle supplies exclusively via the online platform Etsy across North America.
 
-Bubblewicks was opened on Etsy in January 2020 and closed in December of the same year. Data on product sales was recorded by Etsy and provided for analysis. This project seeks to analyse the Bubblewicks' sales data in order to gain insights and recommendations for how to best proceed with a relaunch of the online store to maximize product sales and build on the sales made in 2020. The main KPIs used to measure success in this analysis include total orders, total items sold, and revenue generated. Recommendations and insights will be used by the business owner to better strategize their plans to relaunch the business.
+Bubblewicks was opened on Etsy in January 2020 and closed in December of the same year. Data on product sales was recorded by Etsy and provided for analysis. This project seeks to analyse the Bubblewicks' sales data in order to gain insights and recommendations for how to best proceed with a relaunch of the online store to maximize product sales and build on the sales made in 2020. The main KPIs used to measure success in this analysis include total orders, total items sold, and revenue generated. Recommendations will be used by the business owner to better strategize their plans to relaunch the business.
 
 Insights and recommendations are provided on the following key areas:
 
