@@ -4,7 +4,7 @@
 
 Bubblewicks is an online business that sells soap and candle supplies exclusively via the online platform Etsy across North America.
 
-Bubblewicks was opened on Etsy in January 2020 and closed in December of the same year. Data on product sales was recorded by Etsy and provided for analysis. This project seeks to analyse the Bubblewicks' sales data in order to gain insights and recommendations for how to best proceed with a relaunch of the online store to maximize product sales and build on the sales made in 2020.
+Bubblewicks was opened on Etsy in January 2020 and closed in December of the same year. Data on product sales was recorded by Etsy and provided for analysis. This project seeks to analyse the Bubblewicks' sales data in order to gain insights and recommendations for how to best proceed with a relaunch of the online store to maximize product sales and build on the sales made in 2020. The main KPIs used to measure success in this analysis include total orders, total items sold, and revenue generated. Recommendations and insights will be used by the business owner to better strategize their plans to relaunch the business.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -13,25 +13,26 @@ Insights and recommendations are provided on the following key areas:
 - Regional Comparisons: An evaluation of product sales by province/state
 
 
-# Data Structure & Initial Checks
-
-Bubblewicks' main database structure as seen below consists of two tables: SoldOrders2020 and total_items_purchased with a total of of 74 records.
-
-![ERD](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-erd.png)
-
-
-
 # Executive Summary
 
 ### Overview of Findings
 
-As for the most successful products, Candle Kits were the highest selling item by a significant margin with 40 total sales, Stephenson Soap Base and Soap Cutters also saw a significant portion of sales with 17 and 13 sold respectively. Fragrance and Essential Oils were the worst performers with a combined 2 sales. The company saw a steady increase in total items sold which peaked in May with 20 items sold that month. The following sections will dive deeper into product sales trends and highlight key areas that were successful and other areas that have opportunity for improvement.
+As for the best selling products, Candle Kits were the highest selling item by a significant margin with 40 total sales, Stephenson Soap Base and Soap Cutters also saw a significant portion of sales with 17 and 13 units sold respectively. Fragrance and Essential Oils were the worst performers with a combined total of two sales. The company saw a steady increase in total items sold which peaked in May with 20 items sold that month, followed by a sharp decline for the remainder of the year. Sales would briefly increase in November, matching typical holiday spending trends. The highest concentration of sales were found to be in orders from Ontairo and British Columbia. The following sections will dive deeper into product sales trends and highlight key areas that were successful and other areas that have opportunity for improvement.
 
 An interactive Tableau dashboard is available [here](https://public.tableau.com/app/profile/jack.lemere5367/viz/BubblewicksSalesDashboard/Dashboard1?publish=yes)
 
 Below is an overview of the Excel dashboard.
 
 ![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
+
+
+
+# Data Structure & Initial Checks
+
+Bubblewicks' main database structure as seen below consists of two tables: SoldOrders2020 and total_items_purchased. SoldOrders2020 includes 74 records each representing a product sale transaction. total_items_purchased contains 71 records each representing a customer order with the quantity of items purchased. Data cleaning was conducted using Excel.
+
+![ERD](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-erd.png)
+
 
 # Insights Deep Dive
 ### Sales Trends:
@@ -94,6 +95,6 @@ Based on the insights and findings above, we would recommend Bubblewicks to cons
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-- **Cost data for each product is missing** - Product success was measured on revenue and total products sold, though product analysis may vary depending on how much each product costs to stock
+- **Cost data for each product is missing** - Product success was measured on revenue and total products sold, though product analysis may vary depending on how much each product costs to stock. Etsy fees should also be considered.
 
 - **Sales data only covers one year of sales** - Having a longer timeframe of sales performance would allow for more accurate analysis. As the sales period analysed took place entirely in 2020, a year where COVID-19 was very influential for online stores, spending habits of consumers will likely have changed since then.
