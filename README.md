@@ -87,7 +87,7 @@ Based on the insights and findings above, we would recommend Bubblewicks to cons
 
 - Sales of the majority of products saw noticeable peaks in May and November, introducing new products or sales during these times would help take advantage of the increased customer traffic.
 
-- Ontario and British Columbia saw significantly higher sales than any other regions. Focusing on these areas for sales and consumer interest would be most beneficial.
+- Ontario and British Columbia saw significantly higher sales than any other regions. Focusing on these areas for sales and consumer interests would be most beneficial.
 
 
 
