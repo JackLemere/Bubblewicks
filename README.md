@@ -83,7 +83,7 @@ Based on the insights and findings above, we would recommend Bubblewicks to cons
 
 - Shop inventory only includes six product types sold. For increase in sales, it would be beneficial to carry more products to sell, both for generating more sales and attracting different types of customers.
 
-- Customers very rarely purchased more than one item from the shop. Introducing bundle deals would encourage customers to purchase more products and increase total items sold. 
+- Customers very rarely purchased more than one item from the shop. Introducing bundle deals or incentives for minimum spend would likely encourage customers to purchase more products and increase total items sold. 
 
 - Sales of the majority of products saw noticeable peaks in May and November, introducing new products or sales during these times would help take advantage of the increased customer traffic.
 
