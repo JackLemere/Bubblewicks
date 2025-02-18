@@ -31,7 +31,7 @@ Below is an overview of the Excel dashboard.
 
 ![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
 
-An interactive Tableau dashboard is available ![here](https://public.tableau.com/app/profile/jack.lemere5367/viz/BubblewicksSalesDashboard/Dashboard1?publish=yes)
+An interactive Tableau dashboard is available [here](https://public.tableau.com/app/profile/jack.lemere5367/viz/BubblewicksSalesDashboard/Dashboard1?publish=yes)
 
 # Insights Deep Dive
 ### Sales Trends:
