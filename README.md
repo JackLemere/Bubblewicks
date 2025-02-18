@@ -57,7 +57,7 @@ Bubblewicks' main database structure as seen below consists of two tables: SoldO
 
 - Stephenson Soap Base appeared to be very popular from February to May, and was tied for the most sold product during the month of May making up 40% of sales. No Stephenson Soap Bases were sold after June. 
 
-- Soap Cutters were the third most sold product behind Stephenson Soap base, but generated the second highest revenue with $945.00 earned from 13 sales. The higher revenue is likely due to the Soap Cutter being a higher priced item.
+- Soap Cutters were the third most sold product behind Stephenson Soap base, but generated the second highest revenue with $945.00 earned from 13 sales. The higher revenue is likely due to the Soap Cutter being a high priced item.
 
 
 ![Products Over Time](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-top-selling.png)
