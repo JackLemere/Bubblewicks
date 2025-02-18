@@ -27,11 +27,11 @@ Bubblewicks' main database structure as seen below consists of two tables: SoldO
 
 As for the most successful products, Candle Kits were the highest selling item by a significant margin with 40 total sales, Stephenson Soap Base and Soap Cutters also saw a significant portion of sales with 17 and 13 sold respectively. Fragrance and Essential Oils were the worst performers with a combined 2 sales. The company saw a steady increase in total items sold which peaked in May with 20 items sold that month. The following sections will dive deeper into product sales trends and highlight key areas that were successful and other areas that have opportunity for improvement.
 
-Below is the overview page from the Excel dashboard.
+Below is an overview of the Excel dashboard.
 
 ![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
 
-
+An interactive Tableau dashboard is available ![here](https://public.tableau.com/app/profile/jack.lemere5367/viz/BubblewicksSalesDashboard/Dashboard1?publish=yes)
 
 # Insights Deep Dive
 ### Sales Trends:
