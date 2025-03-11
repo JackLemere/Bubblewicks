@@ -21,8 +21,6 @@ As for the best selling products, Candle Kits were the highest selling item by a
 
 The interactive Tableau dashboard seen below is available [here](https://public.tableau.com/app/profile/jack.lemere5367/viz/BubblewicksSalesDashboard/Dashboard1?publish=yes)
 
-![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
-
 
 
 # Data Structure & Initial Checks
