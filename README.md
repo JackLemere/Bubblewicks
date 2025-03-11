@@ -19,9 +19,7 @@ Insights and recommendations are provided on the following key areas:
 
 As for the best selling products, Candle Kits were the highest selling item by a significant margin with 40 total sales generating 51% of company revenue. Stephenson Soap Base and Soap Cutters also saw a significant portion of sales with 17 and 13 units sold respectively, accounting for a combined 38% of revenue. Fragrance and Essential Oils were the worst performers, achieving only two sales over the entire year. The company saw a steady increase in total items sold which peaked in May with 20 items sold that month, followed by a sharp decline for the remainder of the year. Sales would briefly increase in November, matching typical holiday trends. The highest concentration of sales were found to be in orders from Ontairo and British Columbia, making up for 28% and 14% of sales respectively. The following sections will dive deeper into product sales trends and highlight key areas that were successful and other areas that have opportunity for improvement.
 
-An interactive Tableau dashboard is available [here](https://public.tableau.com/app/profile/jack.lemere5367/viz/BubblewicksSalesDashboard/Dashboard1?publish=yes)
-
-Below is an overview of the Excel dashboard.
+The interactive Tableau dashboard seen below is available [here](https://public.tableau.com/app/profile/jack.lemere5367/viz/BubblewicksSalesDashboard/Dashboard1?publish=yes)
 
 ![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
 
